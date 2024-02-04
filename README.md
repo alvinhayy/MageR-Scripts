@@ -17,13 +17,11 @@ Skrip Python untuk menambahkan, menghapus, atau menampilkan entri host di file h
     ```bash
     https://github.com/alvinhayy/MageR-Scripts.git
     ```
-
-    Ganti `username` dengan nama pengguna pada akun GitHub Anda atau gunakan URL repositori sesuai dengan kebutuhan.
-
+    
 4. Pindah ke direktori skrip:
 
     ```bash
-    cd add-hosts-script
+    cd MageR-Scripts
     ```
 
 5. Jalankan skrip dengan argumen yang sesuai. Contoh penggunaan:
@@ -43,7 +41,7 @@ Skrip Python untuk menambahkan, menghapus, atau menampilkan entri host di file h
         python add_hosts.py -d -hn example.com
         ```
 
-6. Ikuti petunjuk yang muncul di terminal. Jika perlu, berikan izin administratif.
+6. Perlu diketahui bahwasanya perlu hak akses Root untuk menjalankan scripts ini.
 
 ## Catatan
 
