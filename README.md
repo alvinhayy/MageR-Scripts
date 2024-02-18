@@ -1,12 +1,38 @@
+# PDF Cutter.py
+
+Script Python untuk membagi file PDF menjadi beberapa file berdasarkan jumlah halaman yang ditentukan dan untuk mengkompresi ukuran file pdf sehingga mudah ketika ingin menerjemahkanya di Google Translate.
+
+## Penggunaan PDF Cutter.py
+
+1. Pastikan Python 3.x telah terinstal.
+
+2. Unduh / salin Script dari repositori ini.
+
+3. Buka terminal atau command prompt di direktori tempat Anda menyimpan script.
+
+4. Jalankan skrip dengan perintah berikut:
+
+    ```bash
+    python PDF Cutter.py
+    ```
+
+6. Ikuti petunjuk yang muncul di terminal untuk memotong & mengkompres file PDF sesuai kebutuhan.
+
+## Catatan
+
+- Pastikan Anda telah menginstal dependensi yang diperlukan, seperti PyPDF2, sebelum menjalankan script ini. Anda dapat menginstalnya dengan menjalankan `pip install PyPDF2` di terminal.
+
+- Tempatkan Script dan File PDF di dalam satu folder yang sama.
+
 # add_hosts.py
 
-Skrip Python untuk menambahkan, menghapus, atau menampilkan entri host di file hosts pada lingkungan Linux dan macOS.
+Script Python untuk menambahkan, menghapus, atau menampilkan daftar host di file /etc/hosts pada lingkungan Linux dan macOS.
 
 ## Persyaratan
 
 - Python 3.x
 
-## Penggunaan
+## Penggunaan add_hosts.py
 
 1. Pastikan Python 3.x telah terinstal di sistem Anda.
 
